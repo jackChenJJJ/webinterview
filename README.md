@@ -10,8 +10,16 @@
 - 暂未更新
 
 ### JavaScript 
-- closure闭包 [**文档(MDN)**](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
+- [**closure闭包**](https://www.bilibili.com/video/BV1xh411i74F) [**文档(MDN)**](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
 
 ### Vue
 - 暂未更新
 
+### React
+- 暂未更新
+
+### Node.js
+- 暂未更新
+
+### 前端工具类
+- 暂未更新
